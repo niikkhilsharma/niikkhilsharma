@@ -7,7 +7,7 @@ I build fast, accessible web applications with a focus on frontend architecture 
 
 - 🚀 Shipped **[Scout7](https://scout7.ai)** — AI-powered football scouting platform
 - 🧩 Open-source contributor to **[Lexical](https://github.com/facebook/lexical)** — Meta's extensible text editor framework
-- 🌐 Portfolio — **[niikkhilsharma.netlify.app](https://niikkhilsharma.netlify.app)**
+- 🌐 Portfolio — **[niikkhilsharma.netlify.app](https://www.itsnikhil.in/)**
 - 📫 Reach me at **niikkhilsharma@gmail.com**
 - 💬 Ask me about frontend architecture, Next.js, or rich-text editors
 
