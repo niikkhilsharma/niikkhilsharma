@@ -60,7 +60,6 @@ Frontend Engineer with 1+ years of experience building scalable, production-grad
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=niikkhilsharma&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=niikkhilsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/niikkhilsharma) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@niikkhilsharma) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/nikhil_dmg) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niikkhilsharma@gmail.com)
