@@ -26,7 +26,7 @@ Frontend Engineer with 1+ years of experience building scalable, production-grad
 
 [AskDesk AI](embeded-ai-chatbot.vercel.app), is an AI-powered chatbot SaaS that lets users upload documents and create customizable AI chatbots that can be embedded into websites using a simple script tag.
 
-[Genius AI](http://ai.itsnikhil.in/) , is a SaaS tool built with Next.js that lets you generate and edit images, videos, audio, text and code, with Razorpay handling payments.
+[Genius AI](http://ai.itsnikhil.in/), is a SaaS tool built with Next.js that lets you generate and edit images, videos, audio, text and code, with Razorpay handling payments.
 
 # 💻 Tech Stack:
 
